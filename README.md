@@ -6,7 +6,7 @@
 
 <br>
 
-- :school: I am a `Student` in **Information Systems Engineering**.  
+- :school: I am a `Student` in **Systems Engineering**.  
 - :technologist: Skilled in `Python`, `SQL`, `Haskell`, `Prolog`, and `Smalltalk`.  
 - :computer: I’m expanding my knowledge in both `Front-End` and `Back-End` development.  
 - :nerd_face: I love learning and building something `new`, `productive`, `innovative`, and `creative`.  
